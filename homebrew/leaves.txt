@@ -1,4 +1,5 @@
 vivid
+lsd
 automake
 awscli
 bash
