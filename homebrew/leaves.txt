@@ -1,3 +1,4 @@
+vivid
 automake
 awscli
 bash
