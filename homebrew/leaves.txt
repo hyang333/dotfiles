@@ -1,3 +1,4 @@
+tinty
 vivid
 lsd
 automake
