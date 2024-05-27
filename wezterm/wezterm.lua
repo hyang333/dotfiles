@@ -4,7 +4,7 @@ return {
 	color_scheme = 'Catppuccin Mocha',
 	enable_tab_bar = false,
 	font_size = 16.0,
-	font = wezterm.font('JetBrains Mono'),
+	font = wezterm.font('Maple Mono NF'),
 	-- macos_window_background_blur = 40,
 	macos_window_background_blur = 30,
 	
@@ -15,8 +15,8 @@ return {
 	-- 	saturation = 0.5,
 	-- },
 	-- window_background_opacity = 0.92,
-	window_background_opacity = 1.0,
-	-- window_background_opacity = 0.78,
+	-- window_background_opacity = 1.0,
+	window_background_opacity = 0.78,
 	-- window_background_opacity = 0.20,
 	window_decorations = 'RESIZE',
 	keys = {
